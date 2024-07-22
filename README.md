@@ -2,7 +2,7 @@ It is Honey Pot.It is Event manager of some file wich you choose and get notific
 
 First thing make sure that you installed Python and some python libraries below.
 
-1. Pyinotify:
+1.Pyinotify:
 pip install pyinotify
 http://github.com/seb-m/pyinotify](http://github.com/seb-m/pyinotify
 
